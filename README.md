@@ -10,7 +10,7 @@ ProofProtectViewer is a screenshot prevention application made specifically for 
 
 ### Installation
 
-Download and Install the latest version from [https://proofprotect.com.au/downloads/](https://proofprotect.com.au/downloads/)
+Download and Install the latest version from [https://proofprotect.com.au/downloads](https://proofprotect.com.au/downloads)
 
 ## Roadmap
 
