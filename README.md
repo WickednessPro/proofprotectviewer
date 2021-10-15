@@ -20,4 +20,4 @@ See the [open issues](https://github.com/WickednessPro/proofprotectviewer/issues
 
 WickednessPro - [@WickednessPro_](https://twitter.com/WickednessPro_) - wickednessproductions@gmail.com
 
-Website Link: [https://github.com/WickednessPro/proofprotect](https://proofprotect.com.au/)
+Website Link: [https://proofprotect.com.au/](https://proofprotect.com.au/)
